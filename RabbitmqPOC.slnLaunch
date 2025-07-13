@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RabbitmqPOC.Uplink\\RabbitmqPOC.Uplink.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RabbitmqPOC.Switch\\RabbitmqPOC.Switch.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
